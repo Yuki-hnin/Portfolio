@@ -1,4 +1,4 @@
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Snowflake } from 'lucide-react';
 
 export function FloatingElements() {
